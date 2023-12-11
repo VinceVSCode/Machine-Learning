@@ -3,7 +3,8 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
 
-""" Sxolia peri kwdika ftiaxnoume ena pinaka 24 thesewn pou antiprosopeuei tis
+"""
+     Sxolia peri kwdika ftiaxnoume ena pinaka 24 thesewn pou antiprosopeuei tis
    wres mias hmeras epeita ena pinaka me tuxaies times apo to 0~100 pou antiorisopeuoun 
    thn piothta parakatw vlepoume ton tupo ths aplhs grammikhs palindromishs.
    Simple Linear regression prediction 𝑓(𝑥) = 𝑏₀ + 𝑏₁𝑥
