@@ -62,7 +62,7 @@ To run any project or script in this repository, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Machine-Learning.git
+   git clone https://github.com/VinceVSCode/Machine-Learning.git
    ```
 2. Navigate to the desired folder:
    ```bash
