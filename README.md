@@ -62,11 +62,11 @@ To run any project or script in this repository, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ml-ai-practice.git
+   git clone https://github.com/yourusername/Machine-Learning.git
    ```
 2. Navigate to the desired folder:
    ```bash
-   cd ml-ai-practice/<folder_name>
+   cd Machine-Learning/<folder_name>
    ```
 3. Install dependencies:
    ```bash
@@ -92,8 +92,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions, suggestions, or feedback, please feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto\:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: themis.sarafidis@gmail.com
+- **GitHub**: VinceVSCode
 
 ---
 
